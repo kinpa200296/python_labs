@@ -1,0 +1,12 @@
+{
+  "bool": true,
+  "array": [
+    "abc",
+    3212,
+    null
+  ],
+  "object": {
+    "key1": 123,
+    "key2": "value 2"
+  }
+}

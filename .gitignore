@@ -58,3 +58,5 @@ target/
 
 # Temp Files
 *.out
+input.txt
+output.txt
